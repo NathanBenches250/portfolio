@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a passionate programmer who specializes in integrating machine learning algorithms to create powerful applications and software APIs. I love transforming ideas into intelligent solutions.`;
 
-export const ABOUT_TEXT = `I love exploring new machine learning techniques and have a deep interest in stochastic methods for finance, particularly in quantitative approaches. Outside academics I love spending time with my family which includes 20 cats, 2 dogs, my sister - Kc and parents. I also eat a pound of ground beef regularly.
+export const ABOUT_TEXT = `I love exploring new machine learning techniques and have a deep interest in stochastic methods for finance, particularly in quantitative approaches. Outside academics I love spending time with my family which includes 20 cats, 2 dogs, my sister - Kc and parents.
 
 
 
