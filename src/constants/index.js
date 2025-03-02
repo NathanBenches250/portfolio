@@ -10,7 +10,7 @@ export const ABOUT_TEXT = `I love exploring new machine learning techniques and 
 
 
 
-This my best friend and favorite cat - Multi trying to wake me up to feed her whiskas, I am actively ignoring her! She has been a mom cat twice and has created 10 monsters over her career. A few of them are mothers themselves! Multi is 3.5 years old and is the best thing in  my life.`;
+This is an image of me instructing a class - CSCI 1913 (Introduction to DataStructures and Algorithms) at University of Minnesota, Twin Cities.`;
 
 export const EXPERIENCES = [
   {
